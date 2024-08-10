@@ -1,3 +1,3 @@
 # Transshipment-and-Risk-Optimization-Model
 
-Developed optimization models for transhipment and portfolio allocation using Excel Solver. Minimized transportation costs for hazardous waste shipment across 6 plants and 3 disposal sites, reducing costs to $2,988 per week through direct shipment. Optimized a $10,000 investment portfolio across 6 asset classes to achieve a minimum 11% return while minimizing risk. Conducted sensitivity analysis on portfolio risk-return tradeoffs, demonstrating a variance increase from 0.000514 to 0.003496 as target returns grew from 10% to 13.5%. Applied linear and non-linear optimization techniques to provide data-driven solutions for complex business problems.
+Developed optimization models for transhipment and portfolio allocation using Excel Solver. Minimized transportation costs for hazardous waste shipment across 6 plants and 3 disposal sites, reducing costs to $2,988 per week through direct shipment. 
